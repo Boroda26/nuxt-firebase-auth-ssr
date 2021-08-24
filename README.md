@@ -1,6 +1,4 @@
-# test
-
-> nuxt firebase auth ssr (js-cookie)
+# nuxt firebase auth ssr (js-cookie)
 
 ## Build Setup
 
